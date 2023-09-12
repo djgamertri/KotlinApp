@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppKotlin</string>
+    <string name="balance_text">Balance: $%s</string>
+    <string name="hint_enter_amount">Ingrese el monto</string>
+    <string name="deposit_button">Depositar</string>
+    <string name="withdraw_button">Retirar</string>
+</resources>
